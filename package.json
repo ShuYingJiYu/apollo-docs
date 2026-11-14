@@ -22,7 +22,7 @@
     "@nolebase/vitepress-plugin-enhanced-readabilities": "^2.18.2",
     "@nolebase/vitepress-plugin-git-changelog": "^2.18.2",
     "canvas-confetti": "^1.9.4",
-    "markdownlint-cli2": "^0.22.1",
+    "markdownlint-cli2": "^0.24.0",
     "medium-zoom": "^1.1.0",
     "mermaid": "^11.15.0",
     "prettier": "^3.8.3",
