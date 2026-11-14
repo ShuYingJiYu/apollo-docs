@@ -16,7 +16,7 @@
   "type": "module",
   "overrides": {
     "vite": "^6.4.2",
-    "esbuild": "^0.25.0"
+    "esbuild": "^0.28.0"
   },
   "devDependencies": {
     "@nolebase/vitepress-plugin-enhanced-readabilities": "^2.18.2",
